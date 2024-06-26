@@ -1,3 +1,6 @@
+## Note: This is completely made by me for a client (https://replit.com/bounties/@DhruvAnand7/create-static-copy-o)
+
+
 # mteb-info
 
 Static copy of the MTEB Leaderboard on huggingface
